@@ -1,2 +1,2 @@
-<h5>Project:Gemini Clone</h5>
+<h4>Project : Gemini Clone</h4>
 Demo - https://gemini-clone-wine-gamma.vercel.app/
